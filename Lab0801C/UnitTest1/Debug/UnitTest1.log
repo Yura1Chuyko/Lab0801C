@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\dell\source\repos\Lab0801C\Lab0801C\Lab0801C.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\dell\source\repos\Lab0801C\Lab0801C\Lab0801C.cpp(37,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dell\source\repos\Lab0801C\Lab0801C\Lab0801C.cpp(39,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dell\source\repos\Lab0801C\Lab0801C\Lab0801C.cpp(40,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
